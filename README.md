@@ -1,5 +1,7 @@
 <div align="center">
+
 ## 👨🏻‍💻 Sobre Mim
+
 </div>
 Sou estudante de Engenharia de Software na UniAmérica Descomplica, focado em transformar conceitos teóricos em soluções de software práticas e eficientes.
 
@@ -12,7 +14,11 @@ Sou estudante de Engenharia de Software na UniAmérica Descomplica, focado em tr
 * **Pensamento Computacional:** Aprimorando minha capacidade de modelar e resolver problemas complexos ao explorar diferentes tipos de sistemas.
 ---
 
+<div align="center">
+
 ## 🚀 Principais Tecnologias
+
+</div>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,git,vscode,github&perline=10" />
@@ -21,7 +27,11 @@ Sou estudante de Engenharia de Software na UniAmérica Descomplica, focado em tr
 
 ---
 
+<div align="center">
+
 ## 🔗 Conecte-se Comigo
+
+</div>
 <p align="center">
 <a href="https://linkedin.com/in/rospirski/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -31,4 +41,8 @@ Sou estudante de Engenharia de Software na UniAmérica Descomplica, focado em tr
 </a>
 </p>
 
+<div align="center">
+
 ## 🌐 Fique avontade e dê uma olhada nos meus repositórios.
+
+</div>
