@@ -1,7 +1,6 @@
 <div align="center">
-
 ## 👨🏻‍💻 Sobre Mim
-
+</div>
 Sou estudante de Engenharia de Software na UniAmérica Descomplica, focado em transformar conceitos teóricos em soluções de software práticas e eficientes.
 
 ### 🛠️ Conhecimentos Sólidos
@@ -11,8 +10,6 @@ Sou estudante de Engenharia de Software na UniAmérica Descomplica, focado em tr
 ### 🌱 Foco Atual (2º Período)
 * **JavaScript:** Estou desenvolvendo ativamente minhas habilidades para criar aplicações web interativas e dinâmicas.
 * **Pensamento Computacional:** Aprimorando minha capacidade de modelar e resolver problemas complexos ao explorar diferentes tipos de sistemas.
-
-</div>
 ---
 
 ## 🚀 Principais Tecnologias
