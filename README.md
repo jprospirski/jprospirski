@@ -1,7 +1,3 @@
-# Olá, eu sou João Pedro Rospirski Pegorini 👋
-
-<br>
-
 ## 👨🏻‍💻 Sobre Mim
 
 Sou estudante de Engenharia de Software na UniAmérica Descomplica, focado em transformar conceitos teóricos em soluções de software práticas e eficientes.
@@ -19,7 +15,7 @@ Sou estudante de Engenharia de Software na UniAmérica Descomplica, focado em tr
 ## 🚀 Principais Tecnologias
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,git,vscode,figma,github&perline=10" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,git,vscode,github&perline=10" />
   </a>
 </p>
 
