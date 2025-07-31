@@ -13,7 +13,7 @@ Sou estudante de Engenharia de Software na UniAmérica Descomplica, focado em tr
 ---
 
 ## 🚀 Principais Tecnologias
-<p align="left">
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,git,vscode,github&perline=10" />
   </a>
@@ -30,3 +30,5 @@ Sou estudante de Engenharia de Software na UniAmérica Descomplica, focado em tr
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 </p>
+
+## 🌐 Dê uma olhada nos meus repositórios
