@@ -31,4 +31,4 @@ Sou estudante de Engenharia de Software na UniAmérica Descomplica, focado em tr
 </a>
 </p>
 
-## 🌐 Dê uma olhada nos meus repositórios
+## 🌐 Fique avontade e dê uma olhada nos meus repositórios.
