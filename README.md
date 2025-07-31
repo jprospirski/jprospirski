@@ -1,8 +1,5 @@
-<div align="center">
-
 ## 👨🏻‍💻 Sobre Mim
 
-</div>
 Sou estudante de Engenharia de Software na UniAmérica Descomplica, focado em transformar conceitos teóricos em soluções de software práticas e eficientes.
 
 ### 🛠️ Conhecimentos Sólidos
